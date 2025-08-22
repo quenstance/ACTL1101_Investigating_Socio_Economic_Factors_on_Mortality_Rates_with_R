@@ -1,7 +1,5 @@
 # Technical Details: Socio-economic Disparities in Australian Mortality
 
----
-
 ### Project Overview
 
 This project was a comprehensive data analysis undertaken to investigate the relationship between various socio-economic factors and mortality rates across Australia. The analysis focuses on both Indigenous and Non-Indigenous populations. The work was conducted using **RStudio** and relied on quantitative data from the **Australian Bureau of Statistics (ABS)** and the **Australian Institute of Health and Welfare (AIHW)**.
